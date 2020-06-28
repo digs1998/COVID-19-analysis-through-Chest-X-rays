@@ -44,4 +44,11 @@ Automated methods to detect and classify human diseases from medical images.Nove
 5. PIL
 6. Scikit-Learn
 
+# Models Used
+1. Simple Convolutional Neural Networks
+2. [DenseNet121](https://keras.io/api/applications/densenet/)
+3. [MobileNet_V2](https://keras.io/api/applications/mobilenet/#mobilenetv2-function)
+
+Do visit my [implementation](https://www.kaggle.com/digvijayyadav/pretrained-models-and-predictions/notebook) for more understanding :)
+
 **Hope You Like this work!!**
